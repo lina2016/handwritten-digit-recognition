@@ -81,5 +81,5 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Author
 
-This project was created by **Lina Jamadar** as a personal learning exercise using the MNIST dataset and TensorFlow/Keras.
+This project was created by Lina Jamadar as a personal learning exercise using the MNIST dataset and TensorFlow/Keras.
 Inspired by various public tutorials and documentation.
