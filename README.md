@@ -41,7 +41,7 @@ A beginner-friendly AI project to classify handwritten digits (0–9) using a Co
 
 ```bash
 
-git clone https://github.com/yourusername/mnist-digit-recognition.git
+git clone https://github.com/lina2016/mnist-digit-recognition.git
 cd mnist-digit-recognition
 
 
