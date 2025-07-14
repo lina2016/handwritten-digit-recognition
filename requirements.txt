@@ -1,0 +1,13 @@
+```txt
+
+tensorflow
+
+numpy
+
+matplotlib
+
+jupyter
+
+opencv-python
+
+pandas
